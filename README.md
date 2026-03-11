@@ -28,8 +28,7 @@ rama-beauty-website
 └── README.md
 
 ## Live Demo
-
-(Deployment link will be added after deployment)
+https://rama-beauty-website.netlify.app
 
 ## Author
 
